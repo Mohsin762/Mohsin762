@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Rajput</h1>
 <h3 align="center">A passionate SEO Expert & WordPress Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [KaidoAnime](kaidoanime.com)
+- 🔭 I’m currently working on KaidoAnime.com
 
 - 🌱 I’m currently learning **WordPress Plugin Development, GitHub, and Advanced SEO**
 
